@@ -11,9 +11,17 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </div>
 
+<div align="center">
+ <img src="https://img.shields.io/badge/scikit--learn-F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=white" />&nbsp;
+ <img src="https://img.shields.io/badge/XGBoost-017CEE.svg?style=for-the-badge&logoColor=white" />
+</div>
+<br>
+
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/ROS2-22314E.svg?style=for-the-badge&logo=ros&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Gazebo-2F3A4F.svg?style=for-the-badge&logo=gazebo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gazebo-2F3A4F.svg?style=for-the-badge&logo=gazebo&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div>
