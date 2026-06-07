@@ -44,7 +44,7 @@
 *Undergraduate Researcher & Lab Leader*
 📅 **2023 – 2025**
 
-* Conducted research in Computer Vision and Artificial Intelligence
+* Conducted research in Computer Vision & Artificial Intelligence & ROS2
 * Led laboratory projects and research activities
 * Developed AI-based solutions and participated in academic projects
 
