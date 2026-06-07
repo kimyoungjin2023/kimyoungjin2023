@@ -25,3 +25,58 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div>
+
+## 🎓 Education
+
+**Soonchunhyang University**
+*B.S. in Information and Communication Engineering*
+📅 **2019 – 2025**
+
+**Soonchunhyang University**
+*Double Major in Intelligent Information & Communication Engineering*
+📅 **2023 – 2025**
+
+---
+
+## 🔬 Research Experience
+
+**WMCR Lab, Soonchunhyang University**
+*Undergraduate Researcher & Lab Leader*
+📅 **2023 – 2025**
+
+* Conducted research in Computer Vision and Artificial Intelligence
+* Led laboratory projects and research activities
+* Developed AI-based solutions and participated in academic projects
+
+---
+
+## 💼 Professional Experience
+
+### Taekwang TRUEN Co., Ltd.
+
+**Customer Support & Technical Support Engineer**
+📅 **2025**
+
+* Provided customer and technical support services
+* Assisted in troubleshooting and system maintenance
+
+### OZ Coding School
+
+**AI Healthcare Program**
+📅 **2025 – 2026**
+
+* Completed an intensive AI Healthcare curriculum
+* Studied Machine Learning, Deep Learning, and AI Applications
+* Successfully completed the program while employed full-time
+
+### Taeksan Co., Ltd.
+
+**Computer Vision AI Developer**
+📅 **2026**
+
+* Data Collection & Annotation
+* Computer Vision Model Training & Optimization
+* Object Detection & Segmentation Development
+* AI Solution Development
+* Technical Proposal Writing & Presentation Preparation
+
