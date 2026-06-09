@@ -93,3 +93,23 @@
 * 2024년도 하계한국통신학회 "자율주행 서비스를 이용한 이동형 안내 로봇 알고리즘에 대한 연구"
 * 2024년도 하계한국통신학회 "고령자를 위한 모니터링 및 응급 이송 시스템에 관한 연구"
 * 2024년도 순천향대학교 공과대학 학술제 " OpenCV를 활용한 복싱 자세 교정 및 경기 분석 알고리즘"
+
+<h3 align="center">🔗 Links 🔗</h3>
+
+<div align="center">
+
+<a href="https://app.notion.com/p/17f595e014fb8331baef81cbc7f2509f">
+  <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white"/>
+</a>
+
+<a href="https://app.notion.com/p/f2c595e014fb837b8e37010385638ea5">
+  <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white"/>
+</a>
+
+<a href="https://kimyoungjin.tistory.com/">
+  <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
