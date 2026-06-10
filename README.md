@@ -65,9 +65,7 @@
 **AI Healthcare Program**
 📅 **2025 – 2026**
 
-* Completed an intensive AI Healthcare curriculum
-* Studied Machine Learning, Deep Learning, and AI Applications
-* Successfully completed the program while employed full-time
+* Completed all core coursework for an intensive AI Healthcare curriculum—covering Machine Learning, Deep Learning, and AI Applications. Concluded the program just before the final project phase upon accepting a full-time position.
 
 ### Taeksan Co., Ltd.
 
