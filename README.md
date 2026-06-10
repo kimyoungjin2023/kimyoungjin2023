@@ -23,7 +23,8 @@
   <img src="https://img.shields.io/badge/ROS2-22314E.svg?style=for-the-badge&logo=ros&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Gazebo-2F3A4F.svg?style=for-the-badge&logo=gazebo&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/FastAPI-005571.svg?style=for-the-badge&logo=fastapi&logoColor=white" />
 </div>
 
 ## 🎓 Education
